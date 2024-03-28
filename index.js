@@ -95,7 +95,7 @@ function oyun(oyuncu, bilgisayar) {
    
    }
 2. Fonsiyonun içinde bilgisayarın seçimi için bir değişken tanımla
-3. Math.random'ı kullanarak bilgisayarın seçimini oluşturun (Math.random 0-1 arasında bir değer verecek)
+3. Math. bilgisayarın seçimini oluşturun (Math.random 0-1 arasında bir değer verecek)
 4. Bu rastgele değeri "Taş", "Kağıt" veya "Makas"a dönüştüren bir koşul oluşturun
 5. Oluşan değeri geri dönün
 
